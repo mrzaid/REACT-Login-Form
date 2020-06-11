@@ -1,0 +1,15 @@
+/* body{
+    background-color: royalblue;
+} */
+.login-form-wrapper{
+    /* border: 1px black solid; */
+    /* height: auto; */
+
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.errors{
+    color:rgb(233, 30, 30) ;
+}
